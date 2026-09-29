@@ -1,0 +1,14 @@
+,precision,recall,f1,threshold,test_positives
+Termination For Convenience,0.806,0.7297,0.766,0.5,74.0
+Cap On Liability,0.8983,0.803,0.848,0.85,132.0
+Uncapped Liability,0.6512,0.6829,0.6667,0.4,41.0
+Liquidated Damages,0.7059,0.5,0.5854,0.55,24.0
+Renewal Term,0.8542,0.8542,0.8542,0.9,48.0
+Notice Period To Terminate Renewal,0.8966,0.7647,0.8254,0.8,34.0
+Non-Compete,0.5476,0.4894,0.5169,0.35,47.0
+Exclusivity,0.75,0.75,0.75,0.8,96.0
+Change Of Control,0.5172,0.7143,0.6,0.35,42.0
+Anti-Assignment,0.8658,0.8487,0.8571,0.85,152.0
+Ip Ownership Assignment,0.7556,0.5965,0.6667,0.85,57.0
+Audit Rights,0.7708,0.8952,0.8284,0.55,124.0
+MACRO,0.7516,0.719,0.7304,,871.0

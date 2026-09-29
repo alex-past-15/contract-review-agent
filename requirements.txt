@@ -1,0 +1,9 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+pyarrow
+streamlit
+langgraph
+langchain-ollama

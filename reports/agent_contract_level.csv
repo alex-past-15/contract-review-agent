@@ -1,0 +1,15 @@
+,precision,recall,f1,contracts_with_clause
+Termination For Convenience,0.848,0.875,0.862,32.0
+Cap On Liability,0.973,0.947,0.96,38.0
+Uncapped Liability,0.565,0.812,0.667,16.0
+Liquidated Damages,0.875,0.778,0.824,9.0
+Renewal Term,0.88,0.917,0.898,24.0
+Notice Period To Terminate Renewal,0.875,0.824,0.848,17.0
+Non-Compete,0.75,0.8,0.774,15.0
+Exclusivity,0.867,0.963,0.912,27.0
+Change Of Control,0.577,1.0,0.732,15.0
+Anti-Assignment,0.947,0.964,0.956,56.0
+Ip Ownership Assignment,0.875,0.778,0.824,18.0
+Audit Rights,0.886,0.969,0.925,32.0
+MACRO,0.827,0.886,0.848,299.0
+MICRO,0.845,0.91,0.876,299.0

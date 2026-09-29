@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "contracts": 77,
+    "micro_precision": 0.845,
+    "micro_recall": 0.91,
+    "micro_f1": 0.876,
+    "macro_f1": 0.848,
+    "sec_per_contract_mean": 36.2,
+    "sec_per_contract_median": 33.9,
+    "contracts_needing_human": 6,
+    "share_no_retry": 0.831,
+    "clauses_found_total": 322,
+    "clauses_unverified_after_retries": 6,
+    "share_summaries_verified": 0.981,
+    "mean_quote_grounding": 0.991
+  },
+  "roi": {
+    "assumptions": {
+      "contracts_per_month": 200,
+      "manual_hours": 1.5,
+      "assisted_hours": 0.4,
+      "lawyer_rate": 2500.0,
+      "miss_cost": 40000.0,
+      "miss_matters": 0.1
+    },
+    "effect": {
+      "manual_cost": 750000,
+      "assisted_cost": 200000,
+      "risk_cost": 361204,
+      "net_saving": 188796,
+      "hours_saved": 220.0,
+      "saving_pct": 25.2
+    }
+  }
+}
