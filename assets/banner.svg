@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Contract Review Agent</title>
+  <desc id="desc">Первичная проверка договоров. Минималистичный баннер с изображением документа.</desc>
+  <rect width="1200" height="320" rx="20" fill="#17252E"/>
+  <path d="M56 63H104" stroke="#A8C7BC" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="105" fill="#A8C7BC" font-size="16" letter-spacing="3">АНАЛИЗ ДОГОВОРОВ</text>
+    <text x="53" y="173" fill="#F4F6F5" font-size="48" font-weight="700">Contract Review Agent</text>
+    <text x="56" y="218" fill="#BAC8CE" font-size="23">Первичная проверка договоров</text>
+    <text x="56" y="273" fill="#93AAA7" font-size="16">LangGraph / Legal-BERT / Qwen2.5</text>
+  </g>
+  <circle cx="1000" cy="160" r="116" fill="#20343E"/>
+  <rect x="920" y="54" width="152" height="212" rx="12" fill="#293F48" stroke="#62827F" stroke-width="2"/>
+  <path d="M946 88H1019" stroke="#BDCEC9" stroke-width="6" stroke-linecap="round"/>
+  <g stroke="#6F8C90" stroke-width="4" stroke-linecap="round">
+    <path d="M946 118H1045M946 137H1030M946 194H1045M946 213H1018M946 232H1000"/>
+  </g>
+  <rect x="939" y="153" width="112" height="23" rx="4" fill="#A8C7BC" fill-opacity="0.16"/>
+  <path d="M946 165H1039" stroke="#A8C7BC" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1080" cy="231" r="29" fill="#A8C7BC"/>
+  <path d="M1067 231L1076 240L1093 222" fill="none" stroke="#20343E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
